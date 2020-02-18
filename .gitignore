@@ -1,0 +1,13 @@
+# general
+.DS_Store
+
+# Python
+__pycache__/
+
+# Virtual Environment
+brabansewijshedenvenv/
+
+# django
+db.sqlite3
+*.log
+secret_settings.py
